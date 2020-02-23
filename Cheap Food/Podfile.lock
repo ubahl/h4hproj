@@ -1,0 +1,16 @@
+PODS:
+  - SwipeMenuViewController (4.0.0)
+
+DEPENDENCIES:
+  - SwipeMenuViewController
+
+SPEC REPOS:
+  trunk:
+    - SwipeMenuViewController
+
+SPEC CHECKSUMS:
+  SwipeMenuViewController: c2c1f9b62022ce6b904b2553f0fa340c9008becd
+
+PODFILE CHECKSUM: 1c9866c9edf0a26460139b118ade8244950e9337
+
+COCOAPODS: 1.8.4

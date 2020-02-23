@@ -1,0 +1,413 @@
+{
+    "allBreakfastRecipes": [
+        {
+            "name": "Eggs and Toast",
+            "instructions": "Preheat oven to 350 degrees\nBake flour for 3 hours\nPlace 2 eggs on toast",
+            "ingredients": [
+                {
+                    "productName": "flour",
+                    "requiredQuantity": 0.5
+                }, {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }
+            ]
+        }, {
+            "name": "Big Omelette",
+            "instructions": "Scramble 12 eggs together in a large pan",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 12
+                }
+            ]
+        }, {
+            "name": "Chicken Hash and Egg",
+            "instructions": "Dice chicken and place into pan on stovetop\nFry two eggs sunny side up\nMix chicken with egg",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "chicken",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Chicken Omelette",
+            "instructions": "Scramble 3 eggs on stovetop\nAdd chicken and salt",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 3
+                }, {
+                    "productName": "chicken",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "salt",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Pancakes",
+            "instructions": "Stir flour and milk in a bowl\nMix an egg in\nCook on stovetop for 5 minutes",
+            "ingredients": [
+                {
+                    "productName": "flour",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "egg",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "milk",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Breakfast Pasta",
+            "instructions": "Boil spaghetti until noodles are soft\nTurn off heat and stir in tomatoes\nSpoon into",
+            "ingredients": [
+                {
+                    "productName": "spaghetti",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "tomato",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "parsley",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Fried Rice",
+            "instructions": "Cook rice until brown\nMix in egg\nTurn off heat and mix in pepper",
+            "ingredients": [
+                {
+                    "productName": "rice",
+                    "requiredQuantity": 0.25
+                }, {
+                    "productName": "pepper",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }
+            ]
+        }, {
+            "name": "Breakfast Patties",
+            "instructions": "Form the ground beef into identical patties\nPlace patties onto pan with garlic and pepper",
+            "ingredients": [
+                {
+                    "productName": "groundbeef",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "garlic",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "pepper",
+                    "requiredQuantity": 2
+                }
+            ]
+        }, {
+            "name": "Charred Tomato with Garlic",
+            "instructions": "Fry tomatoes in pan on stovetop\nRemove from heat and sprinkle with garlic and pepper",
+            "ingredients": [
+                {
+                    "productName": "tomato",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "pepper",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "garlic",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Milk Egg Rolled Omelette",
+            "instructions": "Whisk 2 eggs with milk\nPlace in pan on low heat for 2 minutes\nRemove from heat and roll on plate",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "milk",
+                    "requiredQuantity": 0.5
+                }
+            ]
+        }
+    ],
+    "allLunchRecipes": [
+        {
+            "name": "Eggs on Bread",
+            "instructions": "Preheat oven to 350 degrees\nBake flour for 3 hours\nPlace 2 eggs on toast",
+            "ingredients": [
+                {
+                    "productName": "flour",
+                    "requiredQuantity": 0.5
+                }, {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }
+            ]
+        }, {
+            "name": "Big Omelette",
+            "instructions": "Scramble 12 eggs together in a large pan",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 12
+                }
+            ]
+        }, {
+            "name": "Chicken Nuggets",
+            "instructions": "Dice chicken and place into pan on stovetop\nFry two eggs sunny side up\nMix chicken with egg",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "chicken",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Chicken and Egg",
+            "instructions": "Scramble 3 eggs on stovetop\nAdd chicken and salt",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 3
+                }, {
+                    "productName": "chicken",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "salt",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Cake",
+            "instructions": "Stir flour and milk in a bowl\nMix an egg in\nCook on stovetop for 5 minutes",
+            "ingredients": [
+                {
+                    "productName": "flour",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "egg",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "milk",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Pasta",
+            "instructions": "Boil spaghetti until noodles are soft\nTurn off heat and stir in tomatoes\nSpoon into",
+            "ingredients": [
+                {
+                    "productName": "spaghetti",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "tomato",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "parsley",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Fried Rice",
+            "instructions": "Cook rice until brown\nMix in egg\nTurn off heat and mix in pepper",
+            "ingredients": [
+                {
+                    "productName": "rice",
+                    "requiredQuantity": 0.25
+                }, {
+                    "productName": "pepper",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }
+            ]
+        }, {
+            "name": "Ground Beef Patties",
+            "instructions": "Form the ground beef into identical patties\nPlace patties onto pan with garlic and pepper",
+            "ingredients": [
+                {
+                    "productName": "groundbeef",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "garlic",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "pepper",
+                    "requiredQuantity": 2
+                }
+            ]
+        }, {
+            "name": "Fried Tomatoes with Garlic",
+            "instructions": "Fry tomatoes in pan on stovetop\nRemove from heat and sprinkle with garlic and pepper",
+            "ingredients": [
+                {
+                    "productName": "tomato",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "pepper",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "garlic",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Egg Roll",
+            "instructions": "Whisk 2 eggs with milk\nPlace in pan on low heat for 2 minutes\nRemove from heat and roll on plate",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "milk",
+                    "requiredQuantity": 0.5
+                }
+            ]
+        }
+    ],
+    "allDinnerRecipes": [
+        {
+            "name": "Teriyaki Chicken Thighs",
+            "instructions": "Cook teriyaki chicken",
+            "ingredients": [
+                {
+                    "productName": "chicken",
+                    "requiredQuantity": 3
+                }
+            ]
+        }, {
+            "name": "Egg and Dinner Roll",
+            "instructions": "Preheat oven to 350 degrees\nBake flour for 3 hours\nPlace 2 eggs on toast",
+            "ingredients": [
+                {
+                    "productName": "flour",
+                    "requiredQuantity": 0.5
+                }, {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }
+            ]
+        }, {
+            "name": "Dinner Omelette",
+            "instructions": "Scramble 12 eggs together in a large pan",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 12
+                }
+            ]
+        }, {
+            "name": "Chicken Tenders",
+            "instructions": "Dice chicken and place into pan on stovetop\nFry two eggs sunny side up\nMix chicken with egg",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "chicken",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Chicken and Egg",
+            "instructions": "Scramble 3 eggs on stovetop\nAdd chicken and salt",
+            "ingredients": [
+                {
+                    "productName": "egg",
+                    "requiredQuantity": 3
+                }, {
+                    "productName": "chicken",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "salt",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Cake",
+            "instructions": "Stir flour and milk in a bowl\nMix an egg in\nCook on stovetop for 5 minutes",
+            "ingredients": [
+                {
+                    "productName": "flour",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "egg",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "milk",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Spaghetti",
+            "instructions": "Boil spaghetti until noodles are soft\nTurn off heat and stir in tomatoes\nSpoon into",
+            "ingredients": [
+                {
+                    "productName": "spaghetti",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "tomato",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "parsley",
+                    "requiredQuantity": 1
+                }
+            ]
+        }, {
+            "name": "Fried Rice",
+            "instructions": "Cook rice until brown\nMix in egg\nTurn off heat and mix in pepper",
+            "ingredients": [
+                {
+                    "productName": "rice",
+                    "requiredQuantity": 0.25
+                }, {
+                    "productName": "pepper",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "egg",
+                    "requiredQuantity": 2
+                }
+            ]
+        }, {
+            "name": "Ground Beef Patties",
+            "instructions": "Form the ground beef into identical patties\nPlace patties onto pan with garlic and pepper",
+            "ingredients": [
+                {
+                    "productName": "groundbeef",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "garlic",
+                    "requiredQuantity": 1
+                }, {
+                    "productName": "pepper",
+                    "requiredQuantity": 2
+                }
+            ]
+        }, {
+            "name": "Fried Tomato with Garlic",
+            "instructions": "Fry tomatoes in pan on stovetop\nRemove from heat and sprinkle with garlic and pepper",
+            "ingredients": [
+                {
+                    "productName": "tomato",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "pepper",
+                    "requiredQuantity": 2
+                }, {
+                    "productName": "garlic",
+                    "requiredQuantity": 1
+                }
+            ]
+        }
+    ]
+}
